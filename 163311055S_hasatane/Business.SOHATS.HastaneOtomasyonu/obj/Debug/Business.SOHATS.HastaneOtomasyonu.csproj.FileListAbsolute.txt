@@ -1,0 +1,10 @@
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\bin\Debug\Business.SOHATS.HastaneOtomasyonu.dll
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\bin\Debug\Business.SOHATS.HastaneOtomasyonu.pdb
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\bin\Debug\Business.HastaneOtomasyonu.dll
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\bin\Debug\Business.HastaneOtomasyonu.pdb
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\bin\Debug\Business.HastaneOtomasyonu.dll.config
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\obj\Debug\Business.SOHATS.HastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\obj\Debug\Business.SOHATS.HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\obj\Debug\Business.SOHATS.HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\obj\Debug\Business.SOHATS.HastaneOtomasyonu.dll
+C:\Users\Mrs Engineer\source\repos\Business.SOHATS.HastaneOtomasyonu\obj\Debug\Business.SOHATS.HastaneOtomasyonu.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\bin\Debug\Types.HastaneOtomasyonu.dll
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\bin\Debug\Types.HastaneOtomasyonu.pdb
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\obj\Debug\Types.HastaneOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\obj\Debug\Types.HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\obj\Debug\Types.HastaneOtomasyonu.dll
+C:\Users\Mrs Engineer\source\repos\Types.HastaneOtomasyonu\obj\Debug\Types.HastaneOtomasyonu.pdb
